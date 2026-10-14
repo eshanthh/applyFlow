@@ -44,3 +44,4 @@ The frontend stores the returned token securely in the browser session. The fron
 - `GET /api/health`
 
 Every resource endpoint requires a Bearer token and filters records by the authenticated user's ID.
+# applyFlow
